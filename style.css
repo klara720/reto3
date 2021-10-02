@@ -1,0 +1,751 @@
+body{
+margin: center;
+
+}
+
+.cuadro{
+   background-color: hsl(356, 100%, 66%);
+    background-image: url(bg-pattern-intro.svg);
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: -150% 65%;
+border-radius: 0 0 0 60px;
+height: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 3%;
+
+
+}
+
+.titulo{ 
+    text-align: center;
+    padding: 60px;
+    color: white;
+    font-size: 30px;
+    margin-top:-25%;
+margin-left: 0%;
+
+font-family: 'Ubuntu', sans-serif;
+
+}
+.product{
+
+padding:15px ;
+transition: 0.4s;
+}
+.product:hover{
+    background-color: transparent; /* Green */
+    color: red;
+  }
+.product:hover {
+    background-color: transparent; /* Green */
+    color: red;
+  }
+.product{
+    
+    background-color: transparent;
+    color: white;
+    margin: center;
+margin-top: -25%;
+    margin-left: -2%;
+    decoration: ;
+    border-radius: 2%;
+    border: none;
+    text;
+
+ 
+}
+.produc{
+
+        
+    background-color: transparent;
+    color: white;
+    margin: center;
+margin-top: -25%;
+    margin-left: 1%;
+    decoration: ;
+    border-radius: 2%;
+    border: none;
+
+}
+.produ{
+    background-color: transparent;
+    color: white;
+    margin: center;
+margin-top: -25%;
+    margin-left: -18%;
+    decoration: ;
+    border-radius: 2%;
+    border: none;
+
+
+}
+
+.login1{ background-color:transparent ;
+    color: white;
+    margin: center;
+margin-top: -25%;
+    margin-left: 50%;
+    border: ;
+}
+.login{ background-color:transparent ;
+    color: white;
+    margin: center;
+margin-top: -25%;
+    margin-left: -300%;
+    border: none;
+}
+
+.login:hover{
+    background-color: transparent; /* Green */
+    color: red;
+  }
+.login:hover {
+    background-color: transparent; /* Green */
+    color: red;
+  }
+
+.classs{
+
+    margin-top: -25%;
+    margin-left: -17%;
+    color:hsl(356, 100%, 66%) ;
+background-color: transparent;
+border:none;
+font-size: 20px;
+border-radius: 15px;
+
+}
+.class{
+    margin-top: -29%;
+    margin-left: 25%;
+    color:hsl(356, 100%, 66%) ;
+background-color: white;
+border:none;
+font-size: 20px;
+border-radius: 15px;
+border: 1px solid white;
+transition-duration: 0.4s;
+}
+.class:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+.class:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+
+
+.subtitulo{
+    text-align: center;
+    margin: center;
+margin-top: -5%;
+    margin-left:-60%;
+    color:white;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.h3{
+    margin: center;
+margin-top: 3%;
+    margin-left: -40%;
+    color: white;
+    font-size: px;
+    font-family:  'Ubuntu', sans-serif;
+    
+}
+.start{
+    background-color:white;
+    color:hsl(356, 100%, 66%) ;
+margin-top: 120%;
+    margin-left: -190%;
+    border: none;
+    font-size: 20px;
+    border-radius: 20px;
+    border-color: white;
+    border: 1px solid white;
+    font-family: 'Ubuntu', sans-serif;
+    transition-duration: 0.4s;
+} 
+
+.start:hover{
+    background-color: transparent; /* Green */
+    color: red;
+  }
+.start:hover {
+    background-color: transparent; /* Green */
+    color: red;
+  }
+
+.learn{
+    transition-duration: 0.4s;
+margin-top:-15% ;
+background-color:hsl(356, 100%, 66%) ;
+color: white;
+font-size: 20px;
+border-radius: 20px;
+border-color: white;
+border: 1px solid white;
+animation-delay: initial;
+transition-duration: 0.4s;
+}
+.learn:hover{
+    background-color: white; /* Green */
+    color: white;
+  }
+.learn:hover {
+    background-color: white; /* Green */
+    color: red;
+  }
+
+.h1{
+    font-size: 20px;
+margin-left: 30%;
+margin-top: 10%;
+margin: center;
+
+}
+
+.le{
+margin: center;
+margin-left: 60%;
+padding: 10px;
+}
+
+.h2{
+    margin-top: -25%;
+margin-left: 2%;
+margin: center;
+font-size: 17px;
+}
+
+.ogr{
+
+    margin-left: 2%;
+    margin-inline-start: 2%;
+    margin: center;
+    font-size: 15px;
+}
+.robust{
+    margin-left: 2%;
+    margin: center;
+    font-size: 17px;
+
+}
+.flexible{
+    margin-left: 2%;
+    margin-inline-start: 2%;
+    margin: center;
+    font-size: 15px;
+
+}
+.cuadro2{
+    
+background-image: url(bg-pattern-circles.svg);
+margin-top: 5%;
+background-repeat: no-repeat;
+background-color:  hsl(208, 49%, 24%);
+border-radius:0 0 0 60px;
+border-top-right-radius: 60px;
+margin: center;
+padding:9%;
+}
+.re{
+    margin-top: -15%;
+margin:center;
+}
+.state{
+color: white;
+margin-left: 50%;
+font-size: 17px;
+margin: center;
+margin-top: -35%;
+
+}
+.with{
+color: white;
+margin-left: 50% ;
+font-size: 15px;
+margin: center;
+ma%;
+
+}
+
+.ne{
+margin: center;
+margin-top: 10%;
+
+
+}
+.free{
+margin-top: -25%;
+    margin-left: 50%;
+    margin: center;
+    font-size: 17px;
+
+
+}
+
+
+.is{
+
+    margin-left: 50%;
+    margin-inline-start: 50%;
+    margin: center;
+    font-size: 15px;
+
+}
+
+.powerful{
+    margin-left: 50%;
+    margin: center;
+    font-size: 17px;
+
+
+}
+
+.batteries{
+
+    margin-left: 50%;
+    margin-inline-start: 50%;
+    margin: center;
+    font-size: 15px;
+
+}
+
+.cuadro3{
+margin-top: 5%;
+background-color:  hsl(240, 10%, 16%);
+padding:3%;
+margin: center;
+border-top-right-radius: 60px;
+    
+}
+
+.blo{
+    margin-top: 1%;
+    color: white;
+font-size: 30px;
+margin-left: 2%;
+margin: center;
+
+}
+.product2{
+
+margin-top: -5%;
+    color: white;
+margin-left: 20%;
+margin: center;
+
+}
+
+.company2{
+    color: white;
+    margin-left: 50%;
+    margin-top: -18%;
+    margin: center;
+
+}
+.connect2{
+
+    color: white;
+    margin-left: 80%;
+    margin-top: -15%;
+
+margin: center;
+}
+
+.boton1{
+    font-size: 20px;
+background-color: transparent;
+border: none;
+color: white;
+
+    transition-duration: 0.4s;
+  
+}
+.boton1:hover{
+    background-color: transparent; /* Green */
+    color: gray;
+  }
+  .boton1:hover {
+    background-color: transparent; /* Green */
+    color: gray;
+  }
+
+.boton2{
+    background-color: transparent;
+    border: none;
+    color: #8F8F8F;
+    transition-duration: 0.4s;
+}
+.boton2:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton2:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+
+.boton3{
+    background-color: transparent;
+border: none;
+color: #8F8F8F;
+transition-duration: 0.4s;
+}
+.boton3:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton3:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+.boton4{
+    background-color: transparent;
+    border: none;
+    color: #8F8F8F;
+    transition-duration: 0.4s;
+}
+.boton4:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton4:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+.boton5{
+    background-color: transparent;
+    border: none;
+    color: #8F8F8F;
+    transition-duration: 0.4s;
+}
+.boton5:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton5:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+.boton6{
+    background-color: transparent;
+    border: none;
+    color: #8F8F8F;
+    transition-duration: 0.4s;
+}
+.boton6:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton6:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+.boton7{
+    font-size: 20px;
+    background-color: transparent;
+border: none;
+color: white;
+transition-duration: 0.4s;
+}
+.boton7:hover{
+    background-color: transparent; /* Green */
+    color: gray;
+  }
+  .boton7:hover {
+    background-color: transparent; /* Green */
+    color: gray;
+  }
+.boton8{
+    background-color: transparent;
+    border: none;
+    color: #8F8F8F;
+    transition-duration: 0.4s;
+}
+.boton8:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton8:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+.boton9{
+    background-color: transparent;
+    border: none;
+    color: #8F8F8F;
+    transition-duration: 0.4s;
+}
+.boton9:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton9:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+.boton10{
+    background-color: transparent;
+border: none;
+color: #8F8F8F;
+transition-duration: 0.4s;
+}
+.boton10:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton10:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+.boton11{  
+    background-color: transparent;
+    border: none; 
+    color: #8F8F8F;  
+    transition-duration: 0.4s;  
+}
+.boton11:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton11:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+.boton12{
+    font-size: 20px;
+    background-color: transparent;
+border: none;
+color: white;
+transition-duration: 0.4s;
+}
+.boton12:hover{
+    background-color: transparent; /* Green */
+    color: gray;
+  }
+  .boton12:hover {
+    background-color: transparent; /* Green */
+    color: gray;
+  }
+.boton13{
+    background-color: transparent;
+border: none;
+color: #8F8F8F;
+transition-duration: 0.4s;
+}
+.boton13:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton13:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+.boton14{
+    
+    background-color: transparent;
+    border: none;
+    color: #8F8F8F;
+    transition-duration: 0.4s;
+}
+.boton14:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton14:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+.boton15{
+    
+    background-color: transparent;
+    border: none;
+color: #8F8F8F;
+transition-duration: 0.4s;
+}
+.boton15:hover{
+    background-color: transparent; /* Green */
+    color: white;
+  }
+  .boton15:hover {
+    background-color: transparent; /* Green */
+    color: white;
+  }
+
+
+
+
+#main-conatainer{
+    min-width: 375px;
+    width: 1280px;
+    
+}
+
+@media screen and (max-width: 850px){
+.cuadro{
+    padding-top:50% ;
+}
+    .product{
+        display: none;
+    }
+    .produc{
+        display: none;
+    }
+    .produ{
+        display: none;
+        
+    }
+    .login1{
+        display: none;
+    }
+    .classs{
+        display: none;
+    }
+    .h1{
+        text-align: center;
+    }
+    .le{
+        text-align: center;
+margin:center;
+margin-left: 0%;
+margin-top: -20px;
+width: 100%;
+    }
+
+    .h2{
+margin-top: 13px;
+
+    }
+    .titulo{
+        text-align: center;
+color: white;
+margin-top: -150%;
+margin-left:15%;
+font-size: 15px;
+
+    }
+    .subtitulo{
+      background-color: transparent;
+    margin-top: -100%;
+    margin-left: -10%;
+   
+text-align: center;
+padding: center;
+
+    }
+    .start-for-free{
+        text-align: center;
+        margin-top: 10%;
+        margin-left: 13%;
+    }
+    .h3{
+        text-align: center;
+        background-color: transparent);
+        margin-top: -15%;
+        margin-left: -30%;
+      text-align: center;
+      padding: center;
+      padding-left: center;
+      padding-right: center;
+      padding-top: center;
+    }
+    .ogr{
+        text-align: center;
+    }
+    .robust{
+        text-align: center;
+    }
+    .flexible{
+        text-align: center;
+    }
+    .cuadro2{
+margin-top: 35%;
+-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+     -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+       -o-background-size: 100% 100%;           /* Opera 9.5 */
+          background-size: 100% 100%;           /* Gecko 2.0 (Firefox 4.0) and other CSS3-compliant browsers */
+background-position: left;
+    }
+.re{
+
+margin-top: -50%;
+margin-left: 20%;
+width: 80%;
+
+}
+.state{
+    text-align: center;
+    margin-top: 10%;
+margin-left: 1%;
+
+}
+.with{
+    text-align: center;
+    margin-left: 1%;
+}
+.ne{
+text-align: center;
+  width: 100%;  
+}
+.free{
+    text-align: center;
+margin-top: 0%;
+margin-left: 0%;
+
+}
+.is{text-align: center;
+margin-top: 0%;
+margin-left: 0%;
+
+}
+.powerful{
+    text-align: center;
+    margin-top: 0%;
+margin-left: 0%;
+
+}
+.batteries{
+    text-align: center;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+.blo{
+    text-align: center;
+}
+.product2{
+    margin-left: 4%;
+    text-align: center;
+}
+.company2{
+    margin-top: 5%;
+    margin-left: 4%;
+    text-align: center;
+}
+.connect2{
+    margin-top: 5%;
+    margin-left: 4%;
+    text-align: center;
+}
+}
+@media screen and (min-width: 1280px){
+    
+}
+@media screen and (min-width: 1280px){
+    
+}
+@media screen and (min-width: 1280px){
+    
+}
+@media screen and (min-width: 1280px){
+    
+}
+@media screen and (min-width: 1280px){
+    
+}
